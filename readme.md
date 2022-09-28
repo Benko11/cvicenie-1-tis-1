@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Norbert Hasan
-2.
+2. Steven Gavlak
 3.
 4. Benjamin Dubovecky
