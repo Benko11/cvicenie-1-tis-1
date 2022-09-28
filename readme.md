@@ -13,12 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Norbert Hasan
-<<<<<<< HEAD
-2.
-3. Julius Hamborsky
-4.
-=======
 2. Steven Gavlak
-3.
+3. Julius Hamborsky
 4. Benjamin Dubovecky
->>>>>>> c324b8ca85622725f8bfc20adf9af67c49f64378
