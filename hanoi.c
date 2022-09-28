@@ -2,7 +2,7 @@
 
 void hanoi(int n, int a, int b)
 {
-  if (n == 1) 
+  if (n == 0) 
     printf("move stone 1 from %d to %d\n", a, b);
   else
   {
