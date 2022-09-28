@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Norbert Hasan
 2.
-3.
+3. Julius Hamborsky
 4.
